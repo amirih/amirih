@@ -9,8 +9,7 @@ _Ph.D. Candidate in Computer Science, Emory University_
 ---
 
 ## 🧠 About Me
-I am a Ph.D. candidate in **Computer Science at Emory University**, where my research focuses on  
-**software engineering**, **high-performance computing**, **spatial data science**, and **simulation-based modeling**.  
+I am a Ph.D. candidate in **Computer Science at Emory University**, where my research focuses on  **software engineering**, **high-performance computing**, **spatial data science**, and **simulation-based modeling**.  
 
 My work centers on designing and developing reproducible and scalable software systems that integrate rigorous engineering principles with data-driven discovery. I am particularly interested in the intersection of **software engineering, parallel processing, and scientific computing**, with the goal of creating frameworks that support reliable, large-scale simulations and computational analysis.
 
