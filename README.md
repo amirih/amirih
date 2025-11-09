@@ -1,5 +1,6 @@
 # Hossein Amiri  
 _Ph.D. Candidate in Computer Science, Emory University_
+
 _Building scalable systems that implement complex real-world processes._  
 
 [![Website](https://img.shields.io/badge/Website-amirih.github.io-blue?style=flat-square)](https://amirih.github.io)
