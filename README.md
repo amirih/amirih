@@ -37,8 +37,8 @@ My work centers on designing and developing reproducible and scalable software s
 ---
 
 ## 🛠️ Skills and Tools
-**Languages:** Python, Java, C, SQL, JavaScript, Bash, Assembly  
-**Frameworks:** OpenMP, MPI, PostGIS, Pandas, and more  
+**Languages:** Python, Java, C, SQL, JavaScript, Bash, Assembly
+**Frameworks:** OpenMP, PostGIS, Pandas, Nextjs, and more  
 **Tools:** Git, Docker, Linux, HPC Clusters, PostgreSQL, LaTeX, and more  
 
 ---
@@ -58,5 +58,5 @@ My work centers on designing and developing reproducible and scalable software s
 
 ---
 
-_“Building reproducible systems that make complex real-world phenomena computable.”_  
+_“Building scalable systems that make complex real-world phenomena computable.”_  
 © 2025 Hossein Amiri
