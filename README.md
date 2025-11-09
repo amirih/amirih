@@ -1,9 +1,10 @@
 # Hossein Amiri  
 _Ph.D. Candidate in Computer Science, Emory University_
+_Building scalable systems that implement complex real-world processes._  
 
-[![Website](https://img.shields.io/badge/Website-amirih.github.io-blue?style=flat-square)](https://amirih.github.io)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-lightgrey?style=flat-square)](https://scholar.google.com/citations?user=dy14xQMAAAAJ)  
-[![GitHub Followers](https://img.shields.io/github/followers/amirih?style=flat-square)](https://github.com/amirih?tab=followers)  
+[![Website](https://img.shields.io/badge/Website-amirih.github.io-blue?style=flat-square)](https://amirih.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-lightgrey?style=flat-square)](https://scholar.google.com/citations?user=dy14xQMAAAAJ)
+[![GitHub Followers](https://img.shields.io/github/followers/amirih?style=flat-square)](https://github.com/amirih?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/amirih?style=flat-square)](https://github.com/amirih?tab=repositories)
 
 ---
@@ -11,7 +12,7 @@ _Ph.D. Candidate in Computer Science, Emory University_
 ## 🧠 About Me
 I am a Ph.D. candidate in **Computer Science at Emory University**, where my research focuses on **software engineering**, **high-performance computing**, **spatial data science**, and **simulation-based modeling**.  
 
-My work centers on designing and developing scalable software systems that integrate robust engineering principles with the research goals of the [Spatial Computing Lab](https://spatial.cs.emory.edu/). I am particularly interested in the intersection of **software engineering, parallel processing, and scientific computing**, with the goal of building frameworks that support reliable, large-scale computational ecosystems.
+My work centers on designing and developing scalable software systems that integrate robust engineering principles with the research goals of the [Spatial Computing Lab](https://spatial.cs.emory.edu/). I am particularly interested in the intersection of **software engineering, parallel processing, and spatial computing**, with the goal of building frameworks that support reliable, large-scale computational ecosystems.
 
 ---
 
@@ -45,6 +46,3 @@ My work centers on designing and developing scalable software systems that integ
 - ✉️ **Email:** hossein.amiri@emory.edu  
 
 ---
-
-_“Building scalable systems that implement complex real-world processes.”_  
-© 2025 Hossein Amiri
