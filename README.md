@@ -24,17 +24,6 @@ My work centers on designing and developing reproducible and scalable software s
 
 ---
 
-## 🧩 Selected Projects
-- **[Patterns-of-Life Simulation Framework](https://github.com/onspatial/pol)**  
-  Large-scale agent-based simulation for human mobility and infectious disease dynamics.  
-
-- **[World-POI Dataset](https://github.com/onspatial/world-poi)**  
-  Global, reproducible dataset integrating OpenStreetMap and Foursquare for spatial computing research.  
-
-- **Simulation Data Pipelines**  
-  High-performance workflows for generating, processing, and analyzing synthetic datasets for urban analytics and epidemiology.  
-
----
 
 ## 🛠️ Skills and Tools
 **Languages:** Python, Java, C, SQL, JavaScript, Bash, Assembly
