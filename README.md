@@ -47,5 +47,5 @@ My work centers on designing and developing reproducible and scalable software s
 
 ---
 
-_“Building scalable systems that make complex real-world phenomena computable.”_  
+_“Building scalable systems that implement complex real-world processes.”_  
 © 2025 Hossein Amiri
