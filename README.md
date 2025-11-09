@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hossein Amiri  
+_Ph.D. Candidate in Computer Science, Emory University_
 
-<!--
-**amirih/amirih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-amirih.github.io-blue?style=flat-square)](https://amirih.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-lightgrey?style=flat-square)](https://scholar.google.com/citations?user=dy14xQMAAAAJ)
+[![GitHub Followers](https://img.shields.io/github/followers/amirih?style=flat-square)](https://github.com/amirih?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/amirih?style=flat-square)](https://github.com/amirih?tab=repositories)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a Ph.D. candidate in **Computer Science at Emory University**, where my research focuses on  
+**software engineering**, **high-performance computing**, **spatial data science**, and **simulation-based modeling**.  
+
+My work centers on designing and developing reproducible and scalable software systems that integrate rigorous engineering principles with data-driven discovery. I am particularly interested in the intersection of **software engineering, parallel processing, and scientific computing**, with the goal of creating frameworks that support reliable, large-scale simulations and computational analysis.
+
+---
+
+## 🔬 Research Interests
+- **Software Engineering**  
+- **High-Performance and Parallel Computing**  
+- **Spatial Computing and Data Science**  
+- **Epidemiology and Public Health**  
+
+---
+
+## 🧩 Selected Projects
+- **[Patterns-of-Life Simulation Framework](https://github.com/onspatial/pol)**  
+  Large-scale agent-based simulation for human mobility and infectious disease dynamics.  
+
+- **[World-POI Dataset](https://github.com/onspatial/world-poi)**  
+  Global, reproducible dataset integrating OpenStreetMap and Foursquare for spatial computing research.  
+
+- **Simulation Data Pipelines**  
+  High-performance workflows for generating, processing, and analyzing synthetic datasets for urban analytics and epidemiology.  
+
+---
+
+## 🛠️ Skills and Tools
+**Languages:** Python, Java, C, SQL, JavaScript, Bash, Assembly  
+**Frameworks:** OpenMP, MPI, PostGIS, Pandas, and more  
+**Tools:** Git, Docker, Linux, HPC Clusters, PostgreSQL, LaTeX, and more  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amirih&show_icons=true&theme=default&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirih&layout=compact&theme=default" />
+</p>
+
+---
+
+## 📫 Contact
+- 🌐 **Website:** [amirih.github.io](https://amirih.github.io)  
+- 🧑‍🎓 **Google Scholar:** [Hossein Amiri](https://scholar.google.com/citations?user=dy14xQMAAAAJ)  
+- ✉️ **Email:** hossein.amiri@emory.edu  
+
+---
+
+_“Building reproducible systems that make complex real-world phenomena computable.”_  
+© 2025 Hossein Amiri
