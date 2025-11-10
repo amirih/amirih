@@ -12,14 +12,14 @@ _Designing and building scalable systems that solve complex real-world problems_
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 I am a Ph.D. candidate in **Computer Science at Emory University**, where my research focuses on **software engineering**, **high-performance computing**, **spatial data science**, and **simulation-based modeling**.  
 
 My work centers on designing and developing scalable software systems that integrate robust engineering principles with the research goals of the [Spatial Computing Lab](https://spatial.cs.emory.edu/). I am particularly interested in the intersection of **software engineering, parallel processing, and spatial computing**, with the goal of building frameworks that support reliable, large-scale computational ecosystems.
 
 ---
 
-## 🔬 Research Interests
+## 📍 Research Interests
 - **Software Engineering**  
 - **High-Performance and Parallel Computing**  
 - **Spatial Computing and Data Science**  
