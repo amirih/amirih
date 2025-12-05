@@ -1,0 +1,20 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # generate daily at 03:00 UTC
+  workflow_dispatch:       # allow manual runs from Actions tab
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
