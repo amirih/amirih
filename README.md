@@ -33,10 +33,13 @@ My work centers on designing and developing scalable software systems that integ
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amirih" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirih" />
+  <img height="160" src="images/userstats.svg" alt="GitHub stats" />
+  <img height="160" src="images/languages.svg" alt="Top languages" />
 </p>
+
+
 
 ---
 
