@@ -28,17 +28,7 @@ My work centers on designing and developing scalable software systems that integ
 ## 🛠️ Skills and Tools
 **Languages:** Python, Java, C, SQL, JavaScript, Bash, Assembly  
 **Frameworks:** OpenMP, PostGIS, Pandas, Next.js, and others  
-**Tools:** Git, Docker, Linux, HPC Clusters, PostgreSQL, LaTeX, and more  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="images/userstats.svg" alt="GitHub stats" />
-  <img height="160" src="images/languages.svg" alt="Top languages" />
-</p>
-
+**Tools:** Git, Docker, Linux, HPC Clusters, PostgreSQL, LaTeX, and more 
 
 
 ---
