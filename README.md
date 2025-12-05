@@ -34,8 +34,8 @@ My work centers on designing and developing scalable software systems that integ
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amirih&show_icons=true&theme=default&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirih&layout=compact&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amirih" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirih" />
 </p>
 
 ---
