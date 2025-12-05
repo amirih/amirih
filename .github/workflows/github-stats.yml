@@ -2,8 +2,8 @@ name: GitHub Stats
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # generate daily at 03:00 UTC
-  workflow_dispatch:       # allow manual runs from Actions tab
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   stats:
@@ -13,12 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate the user stats image
-        uses: cicirello/user-statistician@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
       - name: Languages card
         uses: cicirello/user-statistician@v1
