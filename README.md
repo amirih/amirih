@@ -4,8 +4,7 @@ _Fourth-Year Ph.D. Candidate in Computer Science, Emory University_
 _Designing and building scalable systems that solve complex real-world problems_
 
 
-
-[![Website]](https://amirih.github.io)
+[![Website](https://img.shields.io/badge/Website-amirih.github.io-blue?style=flat-square)](https://amirih.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-lightgrey?style=flat-square)](https://scholar.google.com/citations?user=dy14xQMAAAAJ)
 
 
