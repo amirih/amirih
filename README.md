@@ -1,5 +1,5 @@
 # Hossein Amiri  
-_Fourth-Year Ph.D. Candidate in Computer Science, Emory University_
+_Fourth-Year Ph.D. Candidate in Computer Science and Informatics, Emory University_
 
 _Designing and building scalable systems that solve complex real-world problems_
 
