@@ -1,5 +1,7 @@
 # Hossein Amiri
 
+Welcome to my GitHub profile. I use this space to share my research, teaching resources, open-source applications, and software development work.
+
 * 🌐 **Website:** [amirih.github.io](https://amirih.github.io)
 * 🎓 **Google Scholar:** [Hossein Amiri](https://scholar.google.com/citations?user=dy14xQMAAAAJ)
 * 💻 **Research GitHub:** [Onspatial](https://github.com/onspatial)
